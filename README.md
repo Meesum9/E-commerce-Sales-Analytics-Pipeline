@@ -3,7 +3,8 @@
 👉 [**View Live Looker Studio Dashboard**](https://lookerstudio.google.com/u/0/reporting/84f8573d-2fc7-4f84-b377-eab82d2ace04/page/dMnuF)
 
 ![Architecture Visualization](https://i.imgur.com/your-dashboard-screenshot-link.jpg)
-*(Note: Replace the image url with a screenshot of your Looker Studio Dashboard)*
+
+<img width="2418" height="1802" alt="image" src="https://github.com/user-attachments/assets/51f77dff-1d88-40e2-a321-11b8966f4238" />
 
 ## Project Overview
 
