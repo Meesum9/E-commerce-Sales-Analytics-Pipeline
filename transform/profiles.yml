@@ -4,7 +4,7 @@ ecommerce_profile:
     dev:
       type: bigquery
       method: oauth
-      project: "332542299978"
+      project: "YOUR-GCP-PROJECT-ID"
       dataset: ecommerce_bronze # Default dataset
       threads: 4
       timeout_seconds: 300
@@ -14,7 +14,7 @@ ecommerce_profile:
     prod:
       type: bigquery
       method: service-account
-      project: "332542299978"
+      project: "GCP-PROJECT-ID"
       dataset: ecommerce_bronze
       threads: 4
       keyfile: "YOUR_SERVICE_ACCOUNT_KEY_PATH.json"
